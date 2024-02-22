@@ -17,11 +17,13 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.metrics import categorical_crossentropy
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.layers import Flatten, Dense, Activation, GlobalAveragePooling2D
+from tensorflow.keras.applications import EfficientNetB3
+from tensorflow.keras import regularizers
 # Ignore Warnings
 import warnings
 warnings.filterwarnings("ignore") 
 
-dataDir='D:\PROJECT\Dataset-2'
+dataDir='D:\PROJECT\Dataset'
 
 
 class EyeDiseaseDataset:
@@ -117,6 +119,8 @@ def augment_data( train_df, valid_df, test_df, batch_size=16):
           
     return train_generator, valid_generator, test_generator
 
+
+train_augmented, valid_augmented, test_augmented = augment_data(train_data, valid_data, test_data)
 def show_images(gen):
       
     g_dict = gen.class_indices        # defines dictionary {'class': index}
@@ -137,8 +141,7 @@ def show_images(gen):
 
 
 
-    from tensorflow.keras.applications import EfficientNetB3
-from tensorflow.keras import regularizers
+
 
 classes = len(list(train_augmented.class_indices.keys()))
 
