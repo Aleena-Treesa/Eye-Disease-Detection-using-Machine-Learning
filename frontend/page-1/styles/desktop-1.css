@@ -1,0 +1,412 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 170rem;
+}.desktop-1-iQ7 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ {
+  width: 100%;
+  height: 303.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-4h3m-bkj {
+  width: 126.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 7.6rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-4h3m-bkj .odir-tjq {
+  margin-right: 83.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-4h3m-bkj .mission-mod {
+  margin-right: 5.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-4h3m-bkj .about-us-JYf {
+  margin-right: 5.9rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-4h3m-bkj .contact-Ex7 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-sijz-NoR {
+  width: 133rem;
+  height: 55.2rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 15.7rem;
+  display: flex;
+  align-items: flex-end;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-sijz-NoR .auto-group-qzwy-UbZ {
+  margin: 0rem 10.6rem 3.6rem 0rem;
+  width: 59rem;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-sijz-NoR .auto-group-qzwy-UbZ .odir-unlocking-the-future-of-eye-health-CGf {
+  margin-bottom: 3rem;
+  max-width: 45.1rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-sijz-NoR .auto-group-qzwy-UbZ .experience-revolutionary-eye-disease-detection-with-machine-learning-VFm {
+  margin-bottom: 2.9rem;
+  max-width: 59rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-sijz-NoR .auto-group-qzwy-UbZ .auto-group-gjuz-nVm {
+  margin: 0rem 19.6rem 0rem 10.6rem;
+  width: calc(100% - 30.2rem);
+  height: 6.6rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 3rem;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-sijz-NoR .rectangle-1-BH1 {
+  width: 63.4rem;
+  height: 55.2rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-razs-eAb {
+  width: 133rem;
+  height: 68.5rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 78.8rem;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-razs-eAb .rectangle-4-mFD {
+  width: 133rem;
+  height: 67.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  background-color: #000000;
+  border-radius: 3rem;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-razs-eAb .pexels-photo-by-joo-jesus-tqd {
+  width: 132.9rem;
+  height: 68.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-razs-eAb .empower-innovate-transform-oBu {
+  width: 35.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 4rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-razs-eAb .our-mission-is-to-deploy-cutting-edge-machine-learning-technology-for-early-detection-and-precise-diagnosis-of-eye-diseases-by-bridging-healthcare-and-innovation-were-committed-to-preserving-vision-and-enhancing-lives-worldwide-VaX {
+  width: 94.2rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 37.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-razs-eAb .odirs-mission-6aK {
+  width: 43.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 27.5rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-tdnf-CNT {
+  width: 133rem;
+  height: 55.5rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 153.8rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-tdnf-CNT .auto-group-ptjb-KT5 {
+  margin: 10.7rem 9.1rem 14.8rem 0rem;
+  height: calc(100% - 25.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-tdnf-CNT .auto-group-ptjb-KT5 .illuminate-the-details-unveil-hidden-insights-with-advanced-image-processing-3dy {
+  margin-bottom: 7.2rem;
+  max-width: 60.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-tdnf-CNT .auto-group-ptjb-KT5 .helps-the-healthcare-professionals-gain-a-powerful-ally-in-their-mission-to-safeguardvision-and-improve-patient-outcomes-wjM {
+  max-width: 59.1rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-tdnf-CNT .rectangle-5-2F1 {
+  width: 63.4rem;
+  height: 55.5rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5-bg.png');
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-torz-jfD {
+  width: 107.6rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 218.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-torz-jfD .contact-us-SpX {
+  margin-right: 52.4rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-torz-jfD .investor-contact--Z8T {
+  margin-top: 1.9rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-ewqm-UWK {
+  width: 113.1rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 226.5rem;
+  display: flex;
+  align-items: flex-end;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-ewqm-UWK .auto-group-l1nx-ChD {
+  margin: 0rem 20.4rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 3.3rem 2.7rem 3.2rem 2.7rem;
+  width: 50.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-ewqm-UWK .auto-group-ensy-F9h {
+  margin: 2.3rem 2.3rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 2.4rem 1.5rem 2.5rem 1.6rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-ewqm-UWK .auto-group-ensy-F9h .image-1-ZRH {
+  width: 5rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-ewqm-UWK .alanodirtechgmailcom-tiT {
+  margin-bottom: 1.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-vjmd-1HH {
+  box-sizing: border-box;
+  padding: 2.9rem 3.1rem 4.2rem 3.1rem;
+  width: 50.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 238.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-frhm-StP {
+  width: 84.1rem;
+  height: 27.4rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 251.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-frhm-StP .auto-group-vbkd-yNX {
+  margin-right: 23.5rem;
+  box-sizing: border-box;
+  padding: 3.3rem 2.7rem;
+  width: 50.6rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-frhm-StP .frame-1-eDm {
+  margin-top: 3.3rem;
+  width: 10rem;
+  height: 10rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-iQ7 .auto-group-fasz-XMZ .auto-group-yvy7-nas {
+  width: 17rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 283rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 3rem;
+}
+.desktop-1-iQ7 .auto-group-3h7m-sMR {
+  width: 100%;
+  height: 10.2rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3c1212;
+  flex-shrink: 0;
+}
