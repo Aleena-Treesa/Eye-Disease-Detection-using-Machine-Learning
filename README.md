@@ -1,1 +1,0 @@
-# Eye-Disease-Detection-using-Machine-Learning
