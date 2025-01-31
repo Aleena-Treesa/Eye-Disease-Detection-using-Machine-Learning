@@ -11,7 +11,6 @@ Vision Saver aims to revolutionize the early detection of eye diseases by provid
 - **Backend Framework:** Django
 - **Frontend Framework:** Bootstrap
 - **Deep Learning Framework:** TensorFlow
-- **Hosting:** Azure
 
 ## Features
 
