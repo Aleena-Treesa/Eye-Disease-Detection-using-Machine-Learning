@@ -35,10 +35,6 @@ To run Vision Saver locally, follow these steps:
 3. Click on the "Predict" button to initiate the prediction process.
 4. View the predicted eye disease along with the confidence score.
 
-## Deployment
-
-The Vision Saver application is deployed on Azure for seamless access. You can access the live application at [Vision Saver](https://visionsaver.azurewebsites.net).
-
 ## Credits
 
 - **Deep Learning Model:** Developed using TensorFlow.
